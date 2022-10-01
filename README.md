@@ -2,7 +2,7 @@
 - 👀 I’m interested in devloping my skills to land a job in technology!
 - 🌱 I’m currently learning Computer Science at WSU Tri-Cities
 - 💞️ I’m looking to collaborate with anyone who would like to build a project with me!
-- 📫 My cotacts:
+- 📫 My contacts:
     allisteraniceto@gmail.com
     
 
